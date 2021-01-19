@@ -1,0 +1,14 @@
+{
+  "projects": {
+    "default": "ravendrakumar-bb23f"
+  },
+  "targets": {
+    "ravendrakumar-bb23f": {
+      "hosting": {
+        "myweb": [
+          "ravendrakumar-bb23f"
+        ]
+      }
+    }
+  }
+}
